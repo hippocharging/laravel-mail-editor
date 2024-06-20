@@ -1,5 +1,5 @@
 {
-    "name": "qoraiche/laravel-mail-editor",
+    "name": "hippocharging/laravel-mail-editor",
     "description": "Laravel Mailable Editor",
     "license": "MIT",
     "authors": [
@@ -7,9 +7,14 @@
             "name": "yassine qoraiche",
             "email": "qoraicheofficiel@hotmail.com",
             "homepage": "https://github.com/qoraiche"
+        },
+        {
+            "name": "argenis barraza",
+            "email": "argenisbg@gmail.com",
+            "homepage": "https://github.com/hippocharging"
         }
     ],
-    "homepage": "https://github.com/Qoraiche/laravel-mail-editor",
+    "homepage": "https://github.com/hippocharging/laravel-mail-editor",
     "keywords": [
         "Laravel",
         "mailEclipse",
